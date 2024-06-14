@@ -12,6 +12,10 @@
         <module>Strategy</module>
         <module>Strategy</module>
         <module>Template-Method</module>
+        <module>Factory-Method</module>
+        <module>Factory-Method/problem</module>
+        <module>Factory-Method/environment</module>
+        <module>Factory-Method/Factory-Method-desgin</module>
     </modules>
 
     <properties>
